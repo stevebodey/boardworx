@@ -1,0 +1,12 @@
+[29-Mar-2016 01:28:29 America/Chicago] PHP Warning:  include_once(Maged/Connect.php): failed to open stream: No such file or directory in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[29-Mar-2016 01:28:29 America/Chicago] PHP Warning:  include_once(): Failed opening 'Maged/Connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[29-Mar-2016 01:28:29 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 39
+[29-Mar-2016 01:28:29 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Session.php on line 36
+[02-Jun-2016 15:53:20 America/Chicago] PHP Warning:  include_once(Maged/Connect.php): failed to open stream: No such file or directory in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[02-Jun-2016 15:53:20 America/Chicago] PHP Warning:  include_once(): Failed opening 'Maged/Connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[02-Jun-2016 15:53:20 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 39
+[02-Jun-2016 15:53:20 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Session.php on line 36
+[06-Jul-2016 04:18:19 America/Chicago] PHP Warning:  include_once(Maged/Connect.php): failed to open stream: No such file or directory in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[06-Jul-2016 04:18:19 America/Chicago] PHP Warning:  include_once(): Failed opening 'Maged/Connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 27
+[06-Jul-2016 04:18:19 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Connect.php on line 39
+[06-Jul-2016 10:46:13 America/Chicago] PHP Fatal error:  Class 'Maged_Model' not found in /home/boardwor/public_html/downloader/Maged/Model/Session.php on line 36
